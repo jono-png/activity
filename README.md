@@ -24,4 +24,4 @@ Instructions for each script are as follows:
 
 ### Have Any Questions?
 
-If you have any questions or need further assistance, please don't hesitate to open an issue [here](https://github.com/jono-png/activity/issues/new). Our team is always ready to help you out!
+If you have any questions or need further assistance, please don't hesitate to open an issue [here](https://github.com/jono-png/activity/issues/new). I am always ready to help you out!
