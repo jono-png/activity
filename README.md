@@ -22,6 +22,6 @@ Instructions for each script are as follows:
 - **macOS Systems**: Run `macos-sh.sh` in your terminal.
 - **Windows Systems**: Execute `windows-bat.bat` for a batch file solution or `windows-vbs.vbs` for a VBScript solution.
 
-### Have Any Questions?
+## Have Any Questions?
 
 If you have any questions or need further assistance, please don't hesitate to open an issue [here](https://github.com/jono-png/activity/issues/new). I am always ready to help you out!
